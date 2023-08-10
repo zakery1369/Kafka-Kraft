@@ -76,7 +76,7 @@ chown -R kafka:kafka kraft-combined-logs
 ```bash
 [Unit]
 Description=Apache Kafka server [kraft]
-Documentation=http://doc.workzy.local/
+Documentation=https://zakops.com
 
 [Service]
 Type=simple
